@@ -26,6 +26,6 @@
     },
     "devDependencies": {
         "@types/node": "^16.4.13",
-        "expect": "^27.0.6"
+        "expect": "^28.0.1"
     }
 }
